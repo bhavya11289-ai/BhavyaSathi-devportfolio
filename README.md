@@ -11,27 +11,13 @@ description: "Portfolio website showcasing my projects, leadership, and passion 
 accentColor: "#2563eb",
 
 > **📬 Connect & Share!**  
-> For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
-> If you've built and published your personal site with this template, I'd love to see it! Send me a DM 🚀
+> For questions and updates, feel free to reach out to bhavya11289@gmail.com
 
 ## Preview
 
-To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
+To view a live preview of the site, [click here](https://bhavyasathi.github.io/devportfolio/).
 
-## Built With
-
-- **[Astro](https://astro.build/)** - Static site generator for modern web apps
-- **[Tailwind CSS v4](https://tailwindcss.com/)** - Utility-first CSS framework
-- **[Tabler Icons](https://tabler.io/icons)** - Free and open source icons
-- **TypeScript** - For type-safe configuration
-
-## Updating the Template
-
-### Configuration
-
-The template is designed to be easily customizable through the `src/config.ts` file. This single file controls:
-
-- **Personal Information**: Name, title, description
+- **Personal Information**: Bhavya Sathi
 - **Accent Color**: Primary color theme (changing this will change the accent color site wide)
 - **Social Links**: Email, LinkedIn, Twitter, GitHub (all optional)
 - **About Section**: Personal bio/description
