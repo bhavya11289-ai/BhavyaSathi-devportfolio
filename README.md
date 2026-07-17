@@ -2,11 +2,13 @@
 
 # DevPortfolio Template
 
-A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
+name: "Bhavya Sathi",
 
-This was completely rebuilt from the ground up from V1. This template was built to be entirely ready to go with a quick config edit (see below) but also provides the ability to easily extend in whatever way you want.
+title: "Aspiring Software Engineer & AI Enthusiast",
 
-This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy integration with your existing AI workflows.
+description: "Portfolio website showcasing my projects, leadership, and passion for AI, software engineering, and technology.",
+
+accentColor: "#2563eb",
 
 > **📬 Connect & Share!**  
 > For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
