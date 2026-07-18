@@ -8,7 +8,7 @@ title: "Aspiring Software Engineer & AI Enthusiast",
 
 description: "Portfolio website showcasing my projects, leadership, and passion for AI, software engineering, and technology.",
 
-accentColor: "#2563eb",
+accentColor: "#f0f1f5",
 
 > **📬 Connect & Share!**  
 > For questions and updates, feel free to reach out to bhavya11289@gmail.com
@@ -19,8 +19,8 @@ To view a live preview of the site, [click here](https://bhavyasathi.github.io/d
 
 - **Personal Information**: Bhavya Sathi
 - **Accent Color**: Primary color theme (changing this will change the accent color site wide)
-- **Social Links**: Email, LinkedIn, Twitter, GitHub (all optional)
-- **About Section**: Personal bio/description
+- **Social Links**: bhavya11289@gmail.com, https://www.linkedin.com/in/bhavya-sathi-6190aa35a/, [GitHub](https://github.com/bhavya11289-ai)
+- **About Section**: High school senior interested in Data Science and Artificial Intelligence
 - **Skills**: List of technical skills
 - **Projects**: Project showcase with descriptions and links
 - **Experience**: Work history with bullet points
@@ -28,36 +28,32 @@ To view a live preview of the site, [click here](https://bhavyasathi.github.io/d
 
 If skills, projects, experience, or education are removed from the config, those sections will be hidden entirely.
 
-### Example structures
-
-Here's what the config data structure looks like for each section:
 
 #### Basic Information
 ```typescript
-name: "Your Name",
+name: "Bhavya Sathi",
 title: "Your Job Title",
-description: "Brief site description",
-accentColor: "#1d4ed8", // Hex color for theme
+description: "I am a driven and goal-oriented student with a strong commitment to academic achievement, leadership, and personal growth. I enjoy applying technology and innovation to solve real-world problems while continuously building new skills through research, software development, and collaborative projects.",
+accentColor: "##0b08bf", // Hex color for theme
 ```
 
 #### Social Links (all optional)
 ```typescript
 social: {
-  email: "your-email@example.com",
-  linkedin: "https://linkedin.com/in/yourprofile",
-  twitter: "https://twitter.com/yourprofile", 
-  github: "https://github.com/yourusername",
+  email: "bhavya11289@gmail.com",
+  linkedin: "[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/bhavya-sathi-6190aa35a/)",
+  github: "[https://github.com/bhavya11289-ai](https://github.com/bhavya11289-ai)",
 }
 ```
 
 #### About Section
 ```typescript
-aboutMe: "A paragraph describing yourself, your background, interests, and what you're passionate about. This appears in the About section of your portfolio."
+aboutMe: " I am a driven and goal-oriented student with a strong commitment to academic achievement, leadership, and personal growth. I enjoy applying technology and innovation to solve real-world problems while continuously building new skills through research, software development, and collaborative projects."
 ```
 
 #### Skills
 ```typescript
-skills: ["JavaScript", "React", "Node.js", "Python", "AWS", "Docker"]
+skills: ["Microsoft Excel Office Specalist, Microsoft Excel Specialist Expert, Business of Retail Certified Specialist, Adobe Certified Prefessional in Visual Design]
 ```
 
 #### Projects
@@ -92,21 +88,14 @@ experience: [
 ```typescript
 education: [
   {
-    school: "University Name",
-    degree: "Bachelor of Science in Computer Science",
-    dateRange: "2014 - 2018",
+    school: "Cuthbertson High School",
+    dateRange: "2022 - 2027",
     achievements: [
-      "Graduated Magna Cum Laude with 3.8 GPA",
-      "Dean's List all semesters",
-      "President of Computer Science Club"
+      "GPA: 4.43 W"
     ]
   }
 ]
 ```
-
-### Icons
-
-The template uses [Tabler Icons](https://tabler.io/icons) for all icons. If you wish to add more icons and have it look consistent with what's already there, you can browse through their extensive icon library.
 
 ## Project Structure
 
@@ -134,37 +123,6 @@ devportfolio/
 └── tsconfig.json            # TypeScript configuration
 ```
 
-## Local Development
-
-If you'd like to run it locally:
-
-```
-git clone https://github.com/RyanFitzgerald/devportfolio.git
-cd devportfolio
-npm install
-```
-
-After that, start up the Astro dev server with:
-
-```
-npm run dev
-```
-
-## Deployment
-
-The template can be deployed to any static hosting service easily (and in most cases, completely free). Here are some options:
-
-- To deploy with Netlify, [click here](https://docs.astro.build/en/guides/deploy/netlify/).
-- To deploy with Vercel, [click here](https://docs.astro.build/en/guides/deploy/vercel/).
-- To deploy with GitHub Pages, [click here](https://docs.astro.build/en/guides/deploy/github/).
-- To deploy with Cloudflare Pages, [click here](https://docs.astro.build/en/guides/deploy/cloudflare/).
-- To deploy with Render, [click here](https://docs.astro.build/en/guides/deploy/render/).
-
-Want to deploy somewhere else? Find more guides [here](https://docs.astro.build/en/guides/deploy/).
-
-## Changelog
-
-To view the changelog, see CHANGELOG.md.
 
 ## License
 
@@ -172,4 +130,4 @@ This project is fully and completely MIT. See LICENSE.md.
 
 ## Questions?
 
-Feel free to reach out on [X (Twitter)](https://x.com/rfitzio) if you have any questions or need help.
+Feel free to reach out on [(LinkedIn]([https://x.com/rfitzio](https://www.linkedin.com/in/bhavya-sathi-6190aa35a/)) if you have any questions.
