@@ -15,7 +15,7 @@ accentColor: "#f0f1f5",
 
 ## Preview
 
-To view a live preview of the site, [click here](https://bhavyasathi.github.io/devportfolio/).
+To view a live preview of the site, [click here]([https://bhavyasathi.github.io/devportfolio/](http://localhost:4321/)).
 
 - **Personal Information**: Bhavya Sathi
 - **Accent Color**: Primary color theme (changing this will change the accent color site wide)
