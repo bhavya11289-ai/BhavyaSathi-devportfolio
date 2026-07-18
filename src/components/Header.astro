@@ -4,6 +4,9 @@ import { siteConfig } from "../config";
 const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
 const hasExperience = siteConfig.experience && siteConfig.experience.length > 0;
 const hasEducation = siteConfig.education && siteConfig.education.length > 0;
+const hasExtracurriculars =
+  siteConfig.extracurriculars && siteConfig.extracurriculars.length > 0;
+const hasPrograms = siteConfig.programs && siteConfig.programs.length > 0;
 ---
 
 <header
@@ -20,6 +23,42 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
           About
         </a>
       </li>
+      {
+        hasEducation && (
+          <li>
+            <a
+              href="#education"
+              class="text-gray-700 hover:text-black transition-colors font-medium"
+            >
+              Education
+            </a>
+          </li>
+        )
+      }
+      {
+        hasExtracurriculars && (
+          <li>
+            <a
+              href="#extracurriculars"
+              class="text-gray-700 hover:text-black transition-colors font-medium"
+            >
+              Extracurriculars
+            </a>
+          </li>
+        )
+      }
+      {
+        hasPrograms && (
+          <li>
+            <a
+              href="#programs"
+              class="text-gray-700 hover:text-black transition-colors font-medium"
+            >
+              Internships/Programs
+            </a>
+          </li>
+        )
+      }
       {
         hasProjects && (
           <li>
@@ -40,18 +79,6 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
               class="text-gray-700 hover:text-black transition-colors font-medium"
             >
               Experience
-            </a>
-          </li>
-        )
-      }
-      {
-        hasEducation && (
-          <li>
-            <a
-              href="#education"
-              class="text-gray-700 hover:text-black transition-colors font-medium"
-            >
-              Education
             </a>
           </li>
         )
